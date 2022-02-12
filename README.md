@@ -12,6 +12,14 @@ The following features were implemented:
 * [X] Readmore functionality
 * [X] Redirect functionality
 
+## Video Walkthrough
+
+Here's a walkthrough of implemented user stories:
+
+<img src='https://github.com/Ybrahm22/IOS-Prework/blob/main/Walkthrough.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
+GIF created with [LiceCap](http://www.cockos.com/licecap/).
+
 ## License
 
     Copyright [2022] [Yug Brahmbhatt]
