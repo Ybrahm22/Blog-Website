@@ -16,7 +16,7 @@ The following features were implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://github.com/Ybrahm22/Blog-Website/blob/main/Walkthrough.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://github.com/Ybrahm22/Blog-Website/blob/main/Walkthrough.gif' title='Blog Website Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
